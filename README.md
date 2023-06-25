@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AlexitoSnow
+- 👋 Hola, soy Geovanny Nieves
 - 👀 Me gusta la programación
 - 🌱 Actualmente estudio Ingeniería en Computación
-- 💞️ Me interesa aprender de POO
 
 <!---
 AlexitoSnow/AlexitoSnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
