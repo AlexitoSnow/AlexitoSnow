@@ -15,7 +15,7 @@
 
 🏫 Computer Science at ESPOL
 
-👨🏻‍💼 Vicepresident of @IEEEComputerSocietyESPOL
+👨🏻‍💼 Vicepresident of [Computer Society Student Chapter IEEE ESPOL Student Branch](https://github.com/IEEEComputerSocietyESPOL)
 
 💻 Learning about backend software
 
