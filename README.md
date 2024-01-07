@@ -9,7 +9,7 @@
 
 </div>
 
-Check out my [resume here.](https://alexitosnow.github.io/)
+Check out my <a href="https://alexitosnow.github.io/" target="_blank">resume here</a>.
 
 ## 🧑🏻‍💻 About me:
 
