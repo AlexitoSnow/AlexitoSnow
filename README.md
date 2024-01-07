@@ -9,13 +9,13 @@
 
 </div>
 
+Check out my [resume here.](https://alexitosnow.github.io/)
+
 ## 🧑🏻‍💻 About me:
 
 🏠 Guayaquil, Ecuador
 
 🏫 Computer Science at ESPOL
-
-👨🏻‍💼 Vicepresident of [Computer Society Student Chapter IEEE ESPOL Student Branch](https://github.com/IEEEComputerSocietyESPOL)
 
 💻 Learning about backend software
 
