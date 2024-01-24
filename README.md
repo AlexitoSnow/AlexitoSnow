@@ -3,15 +3,15 @@
 <div align="center">
 <img  alt="Idea Picture" height="200px" src="https://raw.githubusercontent.com/alexitosnow/alexitosnow/main/idea.png" />
 
-  <a href="https://www.buymeacoffee.com/snowdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/snowdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
   > Thinking about my next idea... 
 
 ![](https://komarev.com/ghpvc/?username=alexitosnow&style=for-the-badge&color=orange)
 
-</div>
+<strong>Check out my <a href="https://alexitosnow.github.io/" target="_blank">resume here 📄</a>.</strong>
 
-<h2>Check out my <a href="https://alexitosnow.github.io/" target="_blank">resume here</a>.</h2>
+</div>
 
 ## 🧑🏻‍💻 About me:
 
